@@ -7,5 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="apache.kafka.clients" level="project" />
+    <orderEntry type="library" name="json" level="project" />
+    <orderEntry type="library" name="codeartisans.json" level="project" />
+    <orderEntry type="library" name="github.livesense.liveSense.jdbc.mysql" level="project" />
   </component>
 </module>
